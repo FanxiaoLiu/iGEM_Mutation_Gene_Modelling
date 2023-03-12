@@ -1,3 +1,1 @@
-from scipy import *
-
-## Initkk
+import scipy
