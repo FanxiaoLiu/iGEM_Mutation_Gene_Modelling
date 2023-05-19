@@ -73,6 +73,8 @@ big_array[4].insert(0,"AC")
 big_array[5].insert(0,"BC")
 big_array[6].insert(0,"ABC")
 
+#Creating graphs
+
 df = pd.DataFrame(big_array,columns=["Test Groups",'Levels of A','Levels of B','Levels of C'])
 
 print(df)
